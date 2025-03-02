@@ -4,6 +4,7 @@ This repository contains signal data and spectograph images of signals acquired 
 
 ### Example Signal Words
 Shown below is an example signal from one of the garage door opener devices. As shown in the image, the signal consists of individual blocks of data which appear to operate on a timed pulse. Each individual block can be referred to as a "word", which in turn allows for the signal pulse to be referred to as a "phrase".
+
 ![Door Opener Signal Full](https://github.com/user-attachments/assets/1c80de89-f0a9-4d1a-a109-d45872dbdb27)
 
 To elaborate on each word, two gifs are shown below highlighting words in a given signal. Each word shown below is a piece of the above whole signal, showing how some words can be repeated in a phrase. The first gif below shows the first and third words of the signal, and as can be seen below they are identical. This means each odd word in the above signal is the same word, simply repeated for each pulse.
